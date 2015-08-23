@@ -1,0 +1,14 @@
+{
+  "name": "RatingsMicroService_lambda",
+  "version": "1.0.0",
+  "description": "poc of aws lambda function for microservice to return ratings (5 stars)",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mconlin",
+  "license": "ISC"
+}
